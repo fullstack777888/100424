@@ -1,0 +1,29 @@
+img {
+    opacity: 0.5;
+}
+p {
+    background-color: yellowgreen;
+    color: brown;
+    font-size: large;
+    font-family: 'Brush Script MT';
+}
+
+h1 {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+button {
+    margin: 30px;
+    
+   
+}
+
+#my_id {
+
+}
+
+
+.my_class {
+    
+}
